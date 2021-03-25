@@ -1,5 +1,5 @@
 # WebCopy
-Copy any website and host it on your computer! Also avaiable for Terminal usage.
+💻 Copy a website and host it on your device! Also avaiable for terminal usage.
 
 # Installation
 Install the modules using Pip
