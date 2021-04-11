@@ -1,5 +1,5 @@
 # WebCopy
-💻 Copy a website and host it on your device! Also avaiable for terminal usage.
+💻 Copy a website and host it on your device! Also avaiable for CLI usage.
 
 # Installation
 Install the modules using Pip
